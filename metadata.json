@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Heritage",
+  "description": "Discover India's timeless monuments, history, culture, and traditions with AI voice assistance and secure OTP authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
